@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="3"/>
+        <Document ID="3">
+            <Title>Overview</Title>
+        </Document>
+        <Document ID="4">
+            <Title>The Pitch</Title>
+            <Text>The Pitch is where you’ll put together the high-level concept for your Wiki. Pitches always start with a short sentence setting out the rough idea. Is your Wiki for a cyberpunk thriller, a fantasy romance, or a gritty military drama? You and the group should talk about it and figure it out.
+
+Greg, Greg, and Greg are sitting down to play some FanWiki to flesh out a world for an upcoming game. Greg throws out the idea of a fantastic gas-lamp London setting, and Greg and Greg excitedly agree.
+
+Once you’ve got the high-level, you’ll drill to the next level and start adding and subtracting things from the Pitch. Make a line down a page with “In” and “Out” on either side. Taking turns, each of you will add things to either side of line. Things listed on the “In” side are added to the setting that aren’t normally considered a part of whatever your Pitch is. The “Out” side is the opposite - anything on this list does not appear in the world, even if it normally would be in the genre.
+
+This list is the opportunity for you and your group to get on the same page about the boundaries for your setting. It establishes the things are definitely in the world, and the things that are off-limits. Use this to set content filters on the game as well. 
+
+Greg writes out the list on a white-board and turns to the group. Greg takes the first turn and writes “Sherlock Holmes” on the “In” list. Everybody now knows that Sherlock Holmes is in the world somewhere, even if he doesn’t make a direct appearance in the game. Greg goes next and adds “child abuse” to the “Out” category, saying that they don’t want any reference to it on-screen or off. Greg goes last and adds “magic” to the “In” side, but Greg points out that magic is implied by the Pitch so isn’t necessary to add to the list. Greg crosses it out and writes “secret societies” in the “In” column instead.
+
+Don’t get super specific with this list unless it’s for content filters, you’ll build off of it in the next step. For now, go around the table adding things until everybody has had a couple of chances. When you feel like the important notes have been hit and you’re ready to move on, give the Pitch a title. Imagine that the Pitch is the first novel, issue, or movie in the series and that the In and Out lists are revealed or established during it. Write that on an index card and put a little number 1 in the corner. The Pitch has now become the Wiki’s first Source.
+
+Now that they’ve gotten the Pitch down and they’ve finished adding things to the Lists, they give it a title. After some debate, they settle on “The Bakersmen.”
+
+Set that card off to the side of the play area where everyone can see it. Now it’s time to start developing the Wiki. Each player, in any order, Contributes to the Wiki. Each player gets to contribute one Article and one Fact. All the Facts must have the Pitch as the Source.
+</Text>
+        </Document>
+        <Document ID="5">
+            <Title>Articles</Title>
+            <Text>Your Wiki contains information about places, people, events, and ideas - all of these are Articles. Articles are the “whats” of your world and make up the bulk of the Wiki. Articles are written on vertical 3x5 index cards with the title along the top. Put a quick overview of what the Article is about just below that. A sentence or two is enough to convey the jist of it - any more information can be added as Facts after that.
+
+A few turns into the Wiki, Greg adds a new Article for John Watson. He writes “John Watson” in big letters along the top of the card. He writes “Leader of the Bakersmen” under that. 
+</Text>
+        </Document>
+        <Document ID="6">
+            <Title>Facts</Title>
+            <Text>Facts are little tidbits of information that flesh out the premise of an Article. The Article will have a basic concept but Facts are where you elaborate on it and tie it into the world. They’re short, maybe a sentence or two, and are always connected to a Source. Facts are written either on the top half of a sticky note (make sure to leave enough room on the bottom for the next one to stick to) or on the bottom half of a vertical 3x5 index card (make sure to leave space on the top to stack under the Article or Facts above it). In either case, pick a Source that you think could be where that Fact gets established and write its marker in the top left of the Fact. </Text>
+        </Document>
+        <Document ID="7">
+            <Title>Sources</Title>
+            <Text>Sources reflect the stories and documents that your Wiki pulls from. A Source might be a movie or a book, or it might even be a particular work within the fiction itself. Whenever you establish a Fact on your Wiki you have to link that Fact to a Source. The easiest way to do this is to put a little symbol on the corner of your Sources and write that symbol on any Fact that is connected to it.
+
+The first Source in the game is the Pitch, but after that Sources are created when someone contributes to the Wiki and wants to add a second Fact to their contribution. When you add a Source to the game this way, give it a title and briefly summarize it. If the Source is supposed to be a part of the “real world” in your game, like a movie or book, talk about the summary of that story. If it’s instead a part of the “fictional world” of your game, mention who or what wrote it and what perspective they might have.
+</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Structure of the Game</Title>
+            <Text>FanWiki plays out over a series of turns. During those turns, you and the other players will be contributing articles to the Wiki and cross-referencing sources. The Wiki will be small and without much detail in the beginning, but as the turns go on, the Wiki will grow larger, building out the world.
+
+To start, you’ll need to do some setup. You’ll need a Pitch for your story-world to set up the game as well as its first story. After that you will transform that story into the first Article on the Wiki and map out some of the world’s details. Once those first Facts have been established, you then take turns adding to the Wiki by creating Articles, Facts, and Sources. There’s no direct end to the game; just keep playing until you feel like you’ve added enough to flesh out the world for your needs.
+</Text>
+        </Document>
+        <Document ID="9">
+            <Title>Contributing</Title>
+            <Text>Players take turns adding to the Wiki by Contributing to it. Whenever you have a chance to Contribute to the Wiki, you add one Article to the Wiki. Write its title on an index card and tell everyone broadly what the Article is about. A few short sentences to get everyone on the same page should suffice, but don’t add too many. That’s what Facts are for. After you’ve added the Article you get to add one Fact to that Article. Facts are simple statements written on sticky notes and attached to the Article. Try to limit each Fact to a single idea - Articles can have as many Facts on them as they need so there’s always an opportunity to add more. Each Fact also needs a Source to identify where that information came from. You can either choose an existing Source or add a new one to the pool. If you choose a Source that is already on the table you may add an additional Fact to any other Article on the Wiki, citing the Source that you chose. If you choose to create a new Source for the Wiki you may instead add an additional Fact to the Article that you just contributed, citing that Source.</Text>
+        </Document>
+        <Document ID="10">
+            <Title>The Wiki</Title>
+            <Text>Your Wiki is made up of three types of things: Articles, Facts, and Sources. During the game you’ll add each of these to the Wiki, creating more information about your world. Articles are the meat of the Wiki and contain Facts that are connected to Sources.</Text>
+        </Document>
     </Documents>
 </SearchIndexes>
